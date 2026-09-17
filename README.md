@@ -1,16 +1,17 @@
 # Hollow Knight: 2D Platformer Tribute
 
-<img width="854" height="480" alt="Gameplay Video" src="https://github.com/user-attachments/assets/2694cbd0-1e54-4e00-b028-6cbf48497e3b" />
+<img width="800" height="449" alt="ezgif-4c79f9e8b34b3213" src="https://github.com/user-attachments/assets/e0ac7f8b-d09c-4270-bdd4-1bf7c52a008a" />
 
 A 2D action-platformer inspired by the masterpiece *Hollow Knight*, developed in Java using the **libGDX** framework. This project serves as a technical showcase of fluid game mechanics, Object-Oriented Programming (OOP) architecture, and structured game design.
 
 ## 🌟 Features
 
-- **A Complete Chapter:** Features a fully playable area with multiple custom environments, designed entirely from scratch using mapping software.
-- **Engaging Combat:** Face off against 4 distinct enemy types, culminating in a challenging area Boss Fight.
+- **A Complete Remake:** Features a fully playable area with multiple custom environments, designed entirely from scratch using tiled.
+- **Fun Combat:** Face off against 4 distinct enemy types(and for each one, different variants), and at last, face a challenging Boss Fight to free your small town.
 - **Charm System:** 8 fully functioning charms integrated into the gameplay to customize the Knight's abilities.
-- **Authentic Visuals & VFX:** Animations are accurately extracted from the original game to preserve its smooth feel, complemented by carefully implemented visual effects.
+- **Authentic Visuals:** Animations are accurately extracted from the original game to keep its smooth feel.
 - **Clean Architecture:** Developed with a Gradle build system and strict adherence to OOP principles for a modular and scalable codebase.
+- **In-game mechanics:** Lots of fun mechanics (e.g. mantis claw, dashing, etc); try it yourself :).
 
 <p align="center">
   <img alt="Screenshot 1" src="https://github.com/user-attachments/assets/d298f4d4-50de-4412-85bd-6597f62ad0ae" width="49%" />
@@ -35,4 +36,3 @@ The game relies on precise keyboard controls:
 *   **Framework:** libGDX (Gradle-based)
 *   **Architecture:** Object-Oriented Programming (OOP)
 *   **Level Design:** Map designing software (Tiled)
-*   **In-game mechanics:** Lots of fun mechanics (e.g. mantis claw, dashing, etc)
