@@ -63,7 +63,8 @@ Ensure you have **Java Development Kit (JDK 8 or higher)** installed.
 
 1. **Clone the repository:**
    ```bash
-   
+   git clone [https://github.com/shahabahmadloo/hollow-knigh.git](https://github.com/shahabahmadloo/hollow-knigh.git)
+   cd hollow-knigh
    ```
 
 2. **Run via Gradle:**
