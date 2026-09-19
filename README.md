@@ -4,7 +4,7 @@
 
 A 2D action-platformer inspired by the masterpiece *Hollow Knight*, developed in Java using the **libGDX** framework. This project serves as a technical showcase of fluid game mechanics, Object-Oriented Programming (OOP) architecture, and structured game design.
 
-## 🌟 Features
+## . Features
 
 - **A Complete Remake:** Features a fully playable area with multiple custom environments, designed entirely from scratch using tiled.
 - **Fun Combat:** Face off against 4 distinct enemy types(and for each one, different variants), and at last, face a challenging Boss Fight to free your small town.
@@ -15,10 +15,11 @@ A 2D action-platformer inspired by the masterpiece *Hollow Knight*, developed in
 
 <p align="center">
   <img alt="Screenshot 1" src="https://github.com/user-attachments/assets/d298f4d4-50de-4412-85bd-6597f62ad0ae" width="49%" />
-  <img alt="Screenshot 2" src="https://github.com/user-attachments/assets/d5086caf-dfc0-4966-985f-45f372186ade" width="49%" />
+  <img alt="Screenshot 2" src="https://github.com/user-attachments/assets/d74d18b7-b11b-49c9-8a92-542060f31416" width="49%" />
+
 </p>
 
-## 🎮 Controls
+## . Controls
 
 The game relies on precise keyboard controls:
 
@@ -30,7 +31,7 @@ The game relies on precise keyboard controls:
 *   `C`: Fireball Spell (Vengeful Spirit)
 *   `S`: Scream Spell (Howling Wraiths)
 
-## 🛠️ Tech Stack
+## . Tech Stack
 
 *   **Language:** Java
 *   **Framework:** libGDX (Gradle-based)
